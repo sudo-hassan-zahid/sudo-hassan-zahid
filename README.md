@@ -63,9 +63,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/sudo-hassan-zahid/sudo-hassan-zahid/output/snake.svg" alt="Snake animation" />
-
-###
