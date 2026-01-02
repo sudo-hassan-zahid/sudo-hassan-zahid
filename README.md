@@ -1,8 +1,3 @@
-<h2 align="left">Hey there 👋 I'm Hassan Zahid</h2>
-
-###
-
+<h2 align="left">Hey there I'm Hassan Zahid</h2>
 <p align="left">I'm a backend developer based in Islamabad, Pakistan, who loves building scalable systems and solving complex integration challenges. My day-to-day involves working with clients, designing APIs, and making sure everything runs smoothly under the hood.</p>
-
 <p align="left">Most of my work revolves around <strong>Go</strong> and <strong>PHP/Laravel</strong>, with MongoDB and PostgreSQL handling the data side of things. I spend a lot of time on API integrations, OAuth flows, and making sure services talk to each other properly. Docker and Git are my constant companions for keeping deployments clean and version control sane.</p>
-
