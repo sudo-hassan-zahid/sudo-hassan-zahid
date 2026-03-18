@@ -10,15 +10,10 @@ I build APIs, work on integrations, and spend most of my time making systems act
 - Debug things that “should work but don’t”
 
 ### Tech I use
-- Go, PHP (Laravel), JavaScript, Rust, C  
-- PostgreSQL, MongoDB, MySQL, Redis  
-- Docker, AWS (EC2, S3, SES), Nginx, Linux  
-- Git, Cloudflare  
-
-### Also worked with
-- Node.js, Next.js  
-- Firebase, Supabase  
-- TailwindCSS, Bootstrap  
+- **Backend:** Go, Rust, PHP, Laravel, Node.js  
+- **Frontend:** HTML, CSS, JavaScript, Next.js, TailwindCSS and Bootstrap  
+- **Databases:** PostgreSQL, MongoDB, MySQL, Redis, Firebase and Supabase  
+- **DevOps & Tools:** Linux, Git, Docker, AWS (EC2, S3, SES, RDS, DocumentDB, Route53) and Vercel
 
 ### Focus
 - Clean, reliable systems  
