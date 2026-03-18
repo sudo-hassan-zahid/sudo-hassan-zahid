@@ -1,3 +1,29 @@
-<h2 align="left">Hey there I'm Hassan Zahid</h2>
-<p align="left">I'm a backend developer based in Islamabad, Pakistan, who loves building scalable systems and solving complex integration challenges. My day-to-day involves working with clients, designing APIs, and making sure everything runs smoothly under the hood.</p>
-<p align="left">Most of my work revolves around <strong>Go</strong> and <strong>PHP/Laravel</strong>, with MongoDB and PostgreSQL handling the data side of things. I spend a lot of time on API integrations, OAuth flows, and making sure services talk to each other properly. Docker and Git are my constant companions for keeping deployments clean and version control sane.</p>
+## Hi, I'm Hassan
+
+Backend developer based in Islamabad, Pakistan 🇵🇰  
+I build APIs, work on integrations, and spend most of my time making systems actually work together.
+
+### What I do
+- Build scalable backend systems (Go, Laravel)
+- Design and maintain APIs
+- Handle integrations (OpenAI, Stripe, OAuth, etc.)
+- Debug things that “should work but don’t”
+
+### Tech I use
+- Go, PHP (Laravel), JavaScript, Rust, C  
+- PostgreSQL, MongoDB, MySQL, Redis  
+- Docker, AWS (EC2, S3, SES), Nginx, Linux  
+- Git, Cloudflare  
+
+### Also worked with
+- Node.js, Next.js  
+- Firebase, Supabase  
+- TailwindCSS, Bootstrap  
+
+### Focus
+- Clean, reliable systems  
+- Performance & scalability  
+- Making services communicate without breaking everything  
+
+---
+I can build, review, optimize, and deploy end-to-end systems.
